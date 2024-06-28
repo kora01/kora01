@@ -1,6 +1,4 @@
-#include <stdio.h>
-int main() {
-    printf("Hello👋 world \n");
+("Hello👋 world \n");
     printf("My name James😄⚡");
     return 0;
 }

@@ -1,5 +1,5 @@
 ("Hello👋 world \n");
-    printf("My name James😄⚡");
+    printf("My name korakit😄⚡");
     return 0;
 }
 
